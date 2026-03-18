@@ -69,3 +69,28 @@ $$NaCl_{(s)}\Rightarrow \Delta H^0_{f}=-46.1 \left[ \frac{kJ}{mol} \right]$$
 Para $Na_{(s)}$ y $Cl_{2(g)}$:
 $$Na_{(s)}\Rightarrow \Delta H^0_{f}=0$$
 $$Cl_{2(g)}\Rightarrow \Delta H^0_{f}=0$$
+---
+$$CH_{4(g)}\Rightarrow \Delta H^0_{f}=-74.81 \left[ \frac{kJ}{mol} \right]$$
+Igualmente, C y H tienen Hf 0.
+
+---
+$$Fe_{3}O_{4(s)}+4H_{2(g)}\rightarrow 3Fe_{(s)}+4H_{2}O_{(l)}$$
+Para esta reacción, 
+$$\Delta H^0_{\text{Reacción}} = \sum V\cdot\Delta H^0_{f\text{ Productos}}-\sum V\cdot\Delta H^0_{f\text{ Reactantes}}$$
+Donde $V=$ Cantidad de mol estequimétrica.
+Entonces:
+$$\Delta H^0_{f}=[4\cdot \Delta H^0_{fH_{2}O(l)}+3\cdot \Delta H^0_{fFe(s)}]-[1\cdot \Delta H^0_{fFe_{3}O_{4}(l)}+3\cdot \Delta H^0_{fH_{2}(g)}]$$
+$$\Delta H^0_{fFe(s)}=0$$
+$$\Delta H^0_{fH_{2}(s)}=0$$
+$$\Delta H^0_{f}=4\cdot \Delta H^0_{fH_{2}O(l)}-\Delta H^0_{fFe_{3}O_{4}(l)}$$
+Para el agua
+$$H_{2(g)}+\frac{1}{2}O_{2(g)}\rightarrow H_{2}O_{(l)}$$
+$$\Delta H^0_{\text{Reacción}}=[1\cdot \Delta H^0_{fH_{2}O}]-[0]$$
+Porque reactantes son el estado estándar de los elementos
+$$H_{2}O_{(l)}\Rightarrow \Delta H^0_{\text{Reacción}}= \Delta H^0_{f}=-285.8 \left[ \frac{kJ}{mol} \right]$$
+# Ley de Hess
+Se tiene un intermediario A, uno B y uno C entre los Reactantes y Productos una reacción, con $\Delta H_{1-4}$. La suma de todas las energías intermedias es igual a la energía de reacción entre reactantes y productos.
+$$\Delta H_{Reacción}=\Delta H_{1}+\Delta H_{2}+\Delta H_{3}+\Delta H_{4}$$
+Ejemplo_
+$$CH_{2}=C_{H}-CH_{3(g)} + \frac{9}{2}O_{2(g)} \rightarrow 3CO_{2}+3H_{2}O$$
+Cómo se calcula la Entalpía de reacción? Se pueden plantear 3 reacciones intermedias con $\Delta H^0_{R}$ conocidos.
