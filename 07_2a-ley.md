@@ -10,7 +10,7 @@ Un proceso es adiabático cuando $\delta Q=0$ => $\Delta E=-W$
 
 **Procesos isotérmicos**
 $T_{1}=T_{2}$
-$$P=\frac{nRT}{V}\rightarrow T=\frac{P_{1}V_{1}}{nR}=\frac{P_{2}V_{2}}{nR} \rightarrow \frac{P_{1}}{V_{1}}=\frac{P_{2}}{V_{2}}$$
+$$P=\frac{nRT}{V}\rightarrow T=\frac{P_{1}V_{1}}{nR}=\frac{P_{2}V_{2}}{nR} \rightarrow \frac{P_{1}}{V_{2}}=\frac{P_{2}}{V_{1}}$$
 $$P_{2}=\frac{P_{1}V_{2}}{V_{1}}$$
 **Proceso isobárico**
 $P_{1}=P_{2}$
