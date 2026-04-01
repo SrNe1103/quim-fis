@@ -51,4 +51,3 @@ Integrando: $$\Delta S=nC_{P}\ln \frac{T_{2}}{T_{1}}$$
 ### **Adiabático**
 	$dS=\frac{\cancel{\delta Q_{rev}}}{T}$
 	Por definición, un proceso adiabático no tiene intercambio de calor
-	
