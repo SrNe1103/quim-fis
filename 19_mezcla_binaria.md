@@ -50,7 +50,7 @@ Esto quiere decir que al agregar compuesto, no todo ese componente va a tener ac
 Ahora, la ecuación se transforma en:
 $$M_{i}=M_{i}^{ref}+RT\ln a_{i}$$
 $$M_{i}=M_{i}^{ref}+RT\ln (\gamma_{i}\cdot X_{i})$$
-$$M_{i}=M_{i}^{ref}+RT\ln X_{i}+RT?\ln\gamma_{i}$$
+$$M_{i}=M_{i}^{ref}+RT\ln X_{i}+RT\ln\gamma_{i}$$
 El coeficiente de actividad es una corrección al sistema ideal y representa una desviación positiva o negativa
 	$\gamma_{i}>1\text{ Desviación positiva}$
 	$\gamma_{i}<1\text{ Desviación negativa}$
