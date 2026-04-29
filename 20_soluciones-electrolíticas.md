@@ -67,5 +67,5 @@ $$\gamma\pm=(0.45^1\cdot 0.82^2)^{1/3}=0.67$$
 $$m\pm=(0.01^1\cdot 0.02^2)=0.0159$$
 $$a\pm=0.67\cdot 0.0159=0.0107$$
 Para $NaCl$ $a\pm=0.089$
-La desviación es mayor para cargas mayores y mayor cantidad de iones. 
+**La desviación es mayor para cargas mayores y mayor cantidad de iones.** 
 
